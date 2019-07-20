@@ -1,0 +1,15 @@
+Data file:,2019-06-11 12-57-45+01-00-01.dx
+Sequence Name:,Tues6,Project Name:,Methane Oxidation
+Sample name:,,Operator:,SYSTEM
+Instrument:,7890A,Injection date:,2019-06-11 13:00:34+01:00
+Inj. volume:,250.000,Location:,1
+Acq. method:,Methaneox1.amx,Type:,Sample
+Processing method:,methane oxidation1.pmx,Sample amount:,0.00
+Manually modified:,None
+Signal:,TCD2B
+RT [min],Type,Width [min],Area,Height,Area%,Name
+12.777,BV  ,0.45,1125.94,215.36,5.13,O2
+13.205,BBA ,0.37,20751.32,2568.71,94.51,N2
+14.124,BB  ,0.23,80.22,23.49,0.37,CH4
+,,Sum,21957.48,,,
+
